@@ -19,13 +19,6 @@
 
 ---
 
-### 🔥 Featured Projects
-- **[Project One](https://github.com/yourusername/projectone)** - A brief description of what it does and the tech stack you used.
-- **[Project Two](https://github.com/yourusername/projecttwo)** - Highlight unique features, challenges overcome, or impact.
-- **[Project Three](https://github.com/yourusername/projectthree)** - Additional project with a concise description.
-
----
-
 ### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/palinda-madubashana-32bb51211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palinda-madubashana-32bb51211" height="30" width="40" /></a>
@@ -119,5 +112,4 @@
 
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-panther&show_icons=true&locale=en&theme=tokyonight" alt="crazy-panther" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy-panther&theme=tokyonight" alt="crazy-panther-streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazy-panther&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="crazy-panther-languages" /></p>
